@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📝 I'm currently studying for a BS in Computer Science
+- 📝 I'm currently pursuing a Bachelor's degree in Computer Science
 - 📫 How to reach me: nchoudh6@gmu.edu
 
 <!--
