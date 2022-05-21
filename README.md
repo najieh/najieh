@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 📝 I'm currently studying for a BS in Computer Science
 - 📫 How to reach me: nchoudh6@gmu.edu
-- 
 
 <!--
 **najieh/najieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
