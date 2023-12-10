@@ -1,5 +1,5 @@
 ### Najieh
-- 📝 I'm currently pursuing a Bachelor's degree in Computer Science and a Master's degree through an Accelerated Master's program.
+- 📝 I'm currently finishing a Master's degree in Computer Science through an Accelerated Master's program.
 - 📫 How to reach me: nchoudh6@gmu.edu
 
 <!--
