@@ -1,6 +1,6 @@
 ### Najieh
-- 📝 I'm currently finishing a Master's degree in Computer Science through an Accelerated Master's program.
-- 📫 How to reach me: nchoudh6@gmu.edu
+- I've recently completed my Bachelor's and Master's degree in Computer Science
+- How to reach me: nchoudh6@gmu.edu
 
 <!--
 **najieh/najieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
