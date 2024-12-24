@@ -1,5 +1,4 @@
 ### Najieh
-- I've recently completed my Bachelor's and Master's degree in Computer Science
 - How to reach me: nchoudh6@gmu.edu
 
 <!--
